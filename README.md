@@ -18,7 +18,7 @@ This tool automates the "Tier 1" work of a Security Operations Center (SOC) Anal
 ## 💻 How to Run
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/nikos/AI-Log-Hunter.git
+   git clone https://github.com/NK88TRN1/AI-Log-Hunter-2.git
 2. Install Dependencies 
    ```bash 
    pip install openai
